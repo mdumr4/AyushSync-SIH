@@ -1,0 +1,10 @@
+NAMASTE_CODE,TERM_NAME,DESCRIPTION,EQUIVALENT_ICD11_CODE
+NAM-AY-001,Jvara,Fever,MGB20.0
+NAM-AY-002,Kasa,Cough,MGB23.0
+NAM-AY-003,Svasa,Dyspnoea / Shortness of breath,MGB23.3
+NAM-AY-004,Atisara,Diarrhoea / Loose motion,MGD01.1
+NAM-AY-005,Chardi,Vomiting,MGD00.0
+NAM-UN-101,Sudah,Headache,MGB21.0
+NAM-UN-102,Nazla,Common Cold,MGB23.1
+NAM-SI-201,Erumal,Cough,MGB23.0
+NAM-SI-202,Kaichal,Vomiting,MGD00.0

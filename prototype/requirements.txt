@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+fhir.resources
+pandas
+streamlit
+httpx # Required for TestClient
+python-multipart # Required for FastAPI file uploads
+
+# --- AI & UI Libraries ---
+transformers
+torch
+spaCy
+streamlit-mic-recorder # For microphone input in the UI
+# We will also need a wrapper for whisper.cpp, but for now, these are the main ones.
